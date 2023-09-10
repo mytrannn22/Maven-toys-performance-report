@@ -68,11 +68,11 @@ This project will use 3 out of 4 CSV files available in the dataset:
 
 ### 2. Stores
 
-- **Region**: The number of stores and the Total Sales that each region contributes are proportional to each other: 60% of country revenue are derived from The North and the Center, corresponding to 60% of total stores located in these two regions. On average, a store in the Center region has daily sales of $551, $116 higher than the South. The company should prioritize the Center region when consider new stores expansion plan, while some actions can be targeted to the South to improve daily performance.
+- **Region**: The number of stores and the Total Sales that each region contributes are proportional to each other: 60% of country revenue are derived from The North and the Center, corresponding to 60% of total stores located in these two regions. On average, each store in the Center region has daily sales of $551, $116 higher than the South. The company can consider prioritizing the Center region when planning for new stores expansion (other factors to consider: new store investments, projected demand, growth potentital, target market, competition, operation costs, etc.) while some actions can be targeted to the South to improve daily performance.
 
 ![image](https://github.com/mytrannn22/Maven-toys-performance-report/assets/140190425/2ff798f8-ecae-4860-bcc2-31bede83d641)
 
-- **Location**: Nearly 60% of total Maven Toys stores are located in Downtown area. On average, each store in Airport area generates by far the most daily revenue with $708, exceeds 30% more than stores in other areas. The company should prioritize expanding with new stores in Airports.
+- **Location**: Nearly 60% of total Maven Toys stores are located in Downtown area. On average, each store in Airport area generates by far the most daily revenue with $708, exceeds 30% more than stores in other areas. Same as above, although Airports seem to be a potential area to place new stores, it may require huge amount of investment. Other consideration and investigation should be conducted to inform informative decisions.
 
 ![image](https://github.com/mytrannn22/Maven-toys-performance-report/assets/140190425/84972864-098e-45b6-8659-907173571ad3)
 
@@ -96,5 +96,5 @@ This project will use 3 out of 4 CSV files available in the dataset:
 
 ![image](https://github.com/mytrannn22/Maven-toys-performance-report/assets/140190425/1a49cbc0-43aa-4f14-856f-34a413c9816e)
 
-- **Some recommendations**: Diversify product portfolio, especially in Electronics category as it brings the most profit margin. It's necessary to investigate more on pricing strategies and the relationship among prices - revenue and profit, so that we can make informative decisions on adjusting pricing frames of products to optimize the overall performance.
+- **Some recommendations**: The company should consider diversifying its product portfolio, especially in Electronics category as it brings the most profit margin. It's necessary to investigate more on pricing strategies and the relationship among prices - revenue and profit, so that we can make informative decisions on adjusting pricing frames of products to optimize the overall performance.
 
